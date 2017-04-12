@@ -178,6 +178,6 @@ By default it will add the following css classes to the element in the following
 | class        | state                                               |
 |--------------|-----------------------------------------------------|
 | can--drop    | draggable target can be dropped in the dropzone     |
-| can-catch    | draggable entered this zone and can be dropped here |
+| can--catch   | draggable entered this zone and can be dropped here |
 | caught--it   | draggable element is dropped in this zone           |
 
